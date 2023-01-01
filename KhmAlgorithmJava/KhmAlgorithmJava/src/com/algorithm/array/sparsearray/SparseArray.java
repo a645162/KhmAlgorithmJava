@@ -1,4 +1,4 @@
-package com.algorithm.sparsearray;
+package com.algorithm.array.sparsearray;
 
 public class SparseArray {
     public static void main(String[] args) {
